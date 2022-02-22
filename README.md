@@ -9,3 +9,9 @@ Id. del dispositivo	4F6F23B3-7073-4844-95E5-61B78209ED19
 Id. del producto	00325-80270-14577-AAOEM
 Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
+####Librerías instaladas 
+#!pip install biopython
+#!pip install reportlab
+#!pip install nglview                    
+####  Data _Bajada de Pubmed. 
+Se identifica el documento con el nombre : pubmed-EcuadorGen-set.txt
