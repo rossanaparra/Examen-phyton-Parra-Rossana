@@ -1,0 +1,374 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      ------------------------------------------------------------
+LC595949.1      ------------------------------------------------------------
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      CAGTGCGGTAACCAGATCGGTGCCAAGTTCTGGGAGGTTATCTCCGACGAGCACGGCGTG
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      ------------------------------------------------------------
+LC595949.1      ------------------------------------------------------------
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      GACCCTACGGGCTCGTACCACGGCGACTCGGACCTGCAGCTGGAGCGCATCAACGTGTAC
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      ------------------------------------------------------------
+LC595949.1      ------------------------------------------------------------
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      TACAACGAGGCCACGGGCGGTCGCTACGTGCCCCGTGCCATCCTCATGGATCTGGAGCCC
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ---------------------------------------------------GAGGACCTA
+MF036277.1      ------------------------------------------------------------
+OK185356.1      -------------------------------------AATCATAAAGATATTGGAACTTT
+MZ736440.1      -------------------------------------AATCATAAAGATATTGGAACTTT
+LC595949.1      -------------------------------------AATCATAAAGATATTGGAACTTT
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      GGTACCATGGACTCGGTCCGCGCCGGCCCCTACGGTCAGCTCTTCCGTCCGGACAACTTC
+                                                                            
+
+LC595961.1      ------------------------------------------------ATGGAAGGTATT
+MF036303.1      ATGTTGTAG-----------------------------------GTACTTTTGGATTATT
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ATATT-----------------------------------TAATTTTTAGTGCTTTTGCT
+MZ736440.1      ATATT-----------------------------------TAATTTTTAGTGCTTTTGCT
+LC595949.1      ATATT-----------------------------------TAATTTTTAGTGCTTTTGCT
+LC595840.1      --------------------------------------------CTACA-GGATTCCCCT
+OK267372.1      --------------------------------------------GGTCATTGACGCCCCT
+MZ736467.1      ------------------------------------------CACTACACTGAGGGTGCT
+LC595890.1      GTGTTCGGTCAAACTGGCGCTGGTAACAACTGGGCCAAGGGACACTACACTGAGGGTGCT
+                                                                            
+
+LC595961.1      ATTAACTTTCAC-----------------------------CATGATTTAATGTTTTTTT
+MF036303.1      ACAACCTTTAGCGGATGGTCTTAAATTATTTGTAAAAGAAACAGTTTTA------CCTAG
+MF036277.1      ------------------------------------------------------------
+OK185356.1      GGTGTTGTTGGTACAACATT----ATCTCTTTTAATTAGAATGGAATTGGCGCAACCAGG
+MZ736440.1      GGTGTTGTTGGTACAACATT----ATCTCTTTTAATTAGAATGGAATTGGCGCAACCAGG
+LC595949.1      GGTGTTGTGGGTACAACATT----ATCTCTTTTAATTAGAATGGAATTGGCGCAACCAGG
+LC595840.1      AGTAACGGCGA-------------GTGAAGCGGGAAGAGCTCAAGCTTAAAATCTCCGTG
+OK267372.1      GGCCACCGTGAC------------------TTCATCAAGAACATGATCACGGGCACCTCG
+MZ736467.1      GAGCTTATTGACTCGGTGCTTGACGTTGTCCGTAAGGAGGCTGAGAGCTGTGACTGCCTG
+LC595890.1      GAGCTTATTGACTCGGTGCTTGACGTTGTCCGTAAGGAGGCTGAGAGCTGTGACTGCCTG
+                                                                            
+
+LC595961.1      TAATT---------------------------------ATGATCACGGTATTTGTTTGTT
+MF036303.1      TAATG---------------------------------CTGATGTAATTTTATTTATATT
+MF036277.1      ------------------------------------------------------------
+OK185356.1      TAATCAAATTTTTATGGGAAATCATCAATTAT------ATAATGTTGTTGTTACTGCTCA
+MZ736440.1      TAATCAAATTTTTATGGGAAATCATCAATTAT------ATAATGTTGTTGTTACTGCTCA
+LC595949.1      TAATCAAATTTTTATGGGAAATCATCAATTAT------ATAATGTTGTTGTTACTGCTCA
+LC595840.1      CAAGT---TTTGTGCGGCGAATTGTAGTCTATAGAGGCGTGGTCAGCGTGG---------
+OK267372.1      CAGGC--------------------TGACTGCGCCATTCTGGTG--GTTGCTTCTGGTGT
+MZ736467.1      CAGGG---TTTCCAGATCACACACTCACTTG-------GTGGTGGTACCGGTTCCGGTAT
+LC595890.1      CAGGG---TTTCCAGATCACACACTCACTTG-------GTGGTGGTACCGGTTCCGGTAT
+                                                                            
+
+LC595961.1      GGATGTTATTTAGAGTTATTACTC-----TTTTTGATGAAAAAATAAATAAAA-------
+MF036303.1      TGCACCTATTTTAGCTTTTTTTTT-AAGTTTATTAAGTTGGA------------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      TGCTTTTATTATGGTTTTCTTTTTAGTTATGCCCGCATTAATTGGAGGTTTTGGTAATTG
+MZ736440.1      TGCTTTTATTATGGTTTTCTTTTTAGTTATGCCCGCATTAATTGGAGGTTTTGGTAATTG
+LC595949.1      TGCTTTTATTATGGTTTTCTTTTTAGTTATGCCCGCATTAATTGGAGGTTTTGGTAATTG
+LC595840.1      ----GCGCTTGGGGCAAGTTCCTTGGAA------GAGGACAGCATGGAGGGTGATACTCC
+OK267372.1      GGGTGAGTTCGAGGCTGGTATCTCCAAG------GAGGGCCA------------------
+MZ736467.1      GGGTACGCTT------CTTATCTCGAAGATCCGTGAGGAGTAC-----------------
+LC595890.1      GGGTACGCTT------CTTATCTCGAAGATCCGTGAGGAGTAC-----------------
+                                                                            
+
+LC595961.1      --------TTCCAGCAACTGTTGTACATGGTGCTACTAT---------------------
+MF036303.1      --------CTGTGATACCTTTAGGATTTGGTATGTTTTTT--------------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      GTTTGTTCCTCTAATGATTGGTGCACCCGATATGGCTTTTCCA-----------------
+MZ736440.1      GTTTGTTCCTCTAATGATTGGTGCACCCGATATGGCTTTTCCA-----------------
+LC595949.1      GTTTGTTCCTCTAATGATTGGTGCACCCGATATGGCTTTTCCA-----------------
+LC595840.1      CGTTCATCCCTGAGTGGCTCGTGCGTACGACCCGTTTTCTTTGAGTCGCGTTGTTTGGGA
+OK267372.1      ---------------GACSCGCGAGCACGCTCTGCTTGCCTTC-ACTCTG----------
+MZ736467.1      --------CCCGACCGTATCATGTGCACGTACTCGGTGTGCCCGTCGCCT----------
+LC595890.1      --------CCCGACCGTATCATGTGCACGTACTCGGTGTGCCCGTCGCCT----------
+                                                                            
+
+LC595961.1      ---------------TGAGATTATTTGGACTTCAATTCCAGCTTTAATTTTA--------
+MF036303.1      ----ACTGAATTAAATATAGGTATTTTATATTTATTAGCAATTTCATCATTAGGCGTTTA
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ----CGTATGAATAATATAAGTTTTTGGTTATTACCCCCAGCTTTATTATTATTAGTTTC
+MZ736440.1      ----CGTATGAATAATATAAGTTTTTGGTTATTACCCCCAGCTTTATTATTATTAGTTTC
+LC595949.1      ----CGTATGAATAATATAAGTTTTTGGTTATTACCCCCAGCTTTATTATTATTAGTTTC
+LC595840.1      ATGCAGCGCAAAGTAGGTGGTAAATTCCATCTAAAGCTAAATATTGGTGCGAGACCGATA
+OK267372.1      ----GGTGTGAAGCAGATGGTCGTTGCCATCAA-----CAAGATGGACGACTCGTCTGTC
+MZ736467.1      ----AAGGTGTCGGATACCGTCGTGGAGCCCTA-----------CAACGCTACGCTTTCC
+LC595890.1      ----AAGGTGTCGGATACCGTCGTGGAGCCCTA-----------CAACGCTACGCTTTCC
+                                                                            
+
+LC595961.1      ------------------------------------------------TTA---ATCGTT
+MF036303.1      TGGTATTATTATTGGAGG--------------------------TTGGTCA---AGTAAT
+MF036277.1      ------------------------------------------------------------
+OK185356.1      ATCAGCTATTGTTGAA--------------------------------TCA---GGTGCT
+MZ736440.1      ATCAGCTATTGTTGAA--------------------------------TCA---GGTGCT
+LC595949.1      ATCAGCTATTGTTGAA--------------------------------TCA---GGTGCT
+LC595840.1      GCGAACAAGTACCGTGAGGGAAAGATGAAAAGAACTTTGAAAAGAGAGTTAAAGAGTACC
+OK267372.1      ATGTACGGCCAGGCCCGT-----------------TACGAGGAGA---TCA---AGTCGG
+MZ736467.1      GTGCACCAGCTGGTCGAG-----------------AACGCCGATGAGGTCA---TGTGCC
+LC595890.1      GTGCACCAGCTGGTCGAG-----------------AACGCCGATGAGGTCA---TGTGCC
+                                                                            
+
+LC595961.1      GCAATACCTTCTT------------TTGCTTTATTATATTCAAT----------------
+MF036303.1      TCTAAATATTCATTTT---------TAGGTGCATTAAGATCAACT--GCACAGATGATTT
+MF036277.1      ------------------------------------------------------------
+OK185356.1      GGTACAGGTTGGACTG---------TTTATCCACCATTATCAAGT--GTACAAGCGCACT
+MZ736440.1      GGTACAGGTTGGACTG---------TTTATCCACCATTATCAAGT--GTACAAGCGCACT
+LC595949.1      GGTACAGGTTGGACTG---------TTTATCCACCATTATCAAGT--GTACAAGCGCACT
+LC595840.1      TGAAACTGCTGAAAGGGAACCGAATCGTTTCCAGTGTCTATAATCCGTGACATATTTCAT
+OK267372.1      AGGTCACCACGTACCTGAAGAAGGTCGGCTAC---------AAGC--CCGCCAAGATCCC
+MZ736467.1      TGGATAACGAGGCCCTGTACGACATTTGCTTCCGTACACTGAAGC--TCACCACCCCAAC
+LC595890.1      TGGATAACGAGGCCCTGTACGACATTTGCTTCCGTACACTGAAGC--TCACCACCCCAAC
+                                                                            
+
+LC595961.1      ---------------------GGATGAGGTAATTGATCCAATTATCACATTAAAAGTG--
+MF036303.1      C--------------------ATACGAATTAACTATTGGATTTTCAA-------------
+MF036277.1      ------------------------------------------------------------
+OK185356.1      C-----------AGGTCCTTCAGTAGATTTAGCTA-TTTTTAGTTTACATTTAACAGGTA
+MZ736440.1      C-----------AGGTCCTTCAGTAGATTTAGCTA-TTTTTAGTTTACATTTAACAGGTA
+LC595949.1      C-----------AGGTCCTTCAGTAGATTTAGCTA-TTTTTAGTTTACATTTAACAGGTA
+LC595840.1      TGGCGAGTGTGTGCGTGCGTGTGCTGTGGCAGTGGCTTTTTTGGCTGCGCTCGGTGTGTG
+OK267372.1      CTTCGTGCCTAT-----CTCGGGCTGGGAGGGTGACAACATGATTGAC----------CG
+MZ736467.1      CTACG-------------GTGACCTGAACCACCTG--------------------GTGTG
+LC595890.1      CTACG-------------GTGACCTGAACCACCTG--------------------GTGTG
+                                                                            
+
+LC595961.1      ----ATTGGTAGTCAATGGTATTGGAGTT------------------ATGAATATTCTGA
+MF036303.1      TTCTTTCAGTAATTGTTTGTACTAAATCT--------------TTAAATTTAATTTCTAT
+MF036277.1      ---------------------------------------------------------CCT
+OK185356.1      TTTCTTCATTATTAGGTGCTATTAATTTTATTTCAACTATTTATAATATGAGAGCCC-CT
+MZ736440.1      TTTCTTCATTATTAGGTGCTATTAATTTTATTTCAACTATTTATAATATGAGAGCCC-CT
+LC595949.1      TTTCTTCATTATTAGGTGCTATTAATTTTATTTCAACTATTTATAATATGAGAGCCC-CT
+LC595840.1      TGCTGTGTGTGCTTGCTGGTGCCCTGTGC--TGCGGTGGGACGTCAAGGTCAGTTCTTAT
+OK267372.1      TTCCACCAACATGCCGTGGTACAAGGGAC-------------------------CCTTCC
+MZ736467.1      CGCCGCCA-TGTCCGGTATCACCACGTGCCTGCGTTTCCCCGGTCAGCTGAACTCGGACC
+LC595890.1      CGCCGCCA-TGTCCGGTATCACCACGTGCCTGCGTTTCCCCGGTCAGCTGAACTCGGACC
+                                                                            
+
+LC595961.1      TAATTTAGAATTTGCAGATGAACCTTTAATATTTGATAGTTATATGGTACAAGAAA----
+MF036303.1      TGTTTTAG----CACAAAAAACCGTTTGGTATT-------------GTTT----------
+MF036277.1      GGTTTAAGTTTTCATAGATTACCTTTATTTGTTTG-----------GTCN----------
+OK185356.1      GGTTTAAGTTTTCATAGATTACCTTTATTTGTTTG-----------GTCT----------
+MZ736440.1      GGTTTAAGTTTTCATAGATTACCTTTATTTGTTTG-----------GTCT----------
+LC595949.1      GGTTTAAGTTTTCATAGATTACCTTTATTTGTTTG-----------GTCT----------
+LC595840.1      GCTGCGGGAAATGGCTGCCGAGGAGGTAGGGCTTACGCTTGCGTTTGTCTGTTATATCTT
+OK267372.1      TCCTTGAG--GCTCTTGACAACCTGAACGCCCCCAAGC--------GTCC----------
+MZ736467.1      TGCGTAAG--CTGGCCGTGAACCTGATCCCGTTCCCGC--------GTCT----------
+LC595890.1      TGCGTAAG--CTGGCCGTGAACCTGATCCCGTTCCCGC--------GTCT----------
+                       *            *                         **            
+
+LC595961.1      ------------------------------------ATGATTTAGCAATAGGTCAATTTA
+MF036303.1      ----------------------------------------TCCTCTTTTTCCTATTTTTT
+MF036277.1      --------------------------------------------NNNNNAANTACTGCTT
+OK185356.1      --------------------------------------------GTATTAATTACTGCTT
+MZ736440.1      --------------------------------------------GTATTAATTACTGCTT
+LC595949.1      --------------------------------------------GTATTAATTACTGCTT
+LC595840.1      GGTGGACGAGTAGTCGCGGTTGGGACTGAGGTGCCTACAACGTGCTTTTGAGTGGGTTTG
+OK267372.1      ------------------------------------------CAGCGACAAGCCYCTCCG
+MZ736467.1      -------------------------------------CCACTTCTTTATGATTGGTTTCG
+LC595890.1      -------------------------------------CCACTTCTTTATGATTGGTTTCG
+                                                                            
+
+LC595961.1      GAATTTTAGAAGTAGATAATCGTGTAGTAGTC---------CCCACTAATAGTCATATTA
+MF036303.1      TAATTTTTTTTATATCATGTTTGGCAGAAACAAATAGACATCCTTTTGATTTACCAGAAG
+MF036277.1      TTCTTTTGTTATTAACTTTACCCGTATTAGC----------CGGTGCAATTACTATGTTA
+OK185356.1      TTCTTTTGTTATTAACTTTACCCGTATTAGC----------CGGTGCAATTACTATGTTA
+MZ736440.1      TTCTTTTGTTATTAACTTTACCCGTATTAGC----------CGGTGCAATTACTATGTTA
+LC595949.1      TTCTTTTGTTATTAACTTTACCCGTATTAGC----------CGGTGCAATTACTATGTTA
+LC595840.1      TGTCTCCGTGTGCGCCGTGTGCGGATA--------------GCTTGCTATGCGTGTGTGG
+OK267372.1      TCTTC------------------------------------CYCTYCAGGATGTGTACAA
+MZ736467.1      CTCCGCTG-ACGTCGCGTGGCTCGCAGCAGTA---------CCGTGCCC--------TGA
+LC595890.1      CTCCGCTG-ACGTCGCGTGGCTCGCAGCAGTA---------CCGTGCCC--------TGA
+                                                                            
+
+LC595961.1      GAAT------ATTAATTACGGCCTCTGATGTTTTACATTCATGGGCTATTCCTTCATTAG
+MF036303.1      CTGAAGCCGAATTAGTTTCTGGATATAATGTT-----------GAATATTCTGCGATGG-
+MF036277.1      TTA-------ACTGAT---AGAAATTTAAATACTTCTTTTTATGATCCTTCGGGAGGTGG
+OK185356.1      TTA-------ACTGAT---AGAAATTTAAATACTTCTTTTTATGATCCTTCGGGAGGTGG
+MZ736440.1      TTA-------ACTGAT---AGAAATTTAAATACTTCTTTTTATGATCCTTCGGGAGGTGG
+LC595949.1      TTA-------ACTGAT---AGAAATTTAAATACTTCTTTTTATGATCCTTCGGGAGGTGG
+LC595840.1      TTGTGTGTGGATTGAT-GCGGGCTTTAACTTGTTGCCGTTCGGGACGTTGACGAAATGGA
+OK267372.1      GATCGGCGGTATTGGC-----------------------ACGGTACCTGTCGGCCGTGTG
+MZ736467.1      CGGTGCCCGAGCTGAC-----------------------TCAGCAACAGTTCGACGCTAA
+LC595890.1      CGGTGCCCGAGCTGAC-----------------------TCAGCAACAGTTCGACGCTAA
+                            *                                               
+
+LC595961.1      GTATTAAATTGGATGCATG--------------------------------------TCC
+MF036303.1      ------GTTTCGCATTATT--------------------------------------TTT
+MF036277.1      GG----ATCCTGTATTATA-------TCAA--CATTTATTTTGGT---TTTTCGGTCATC
+OK185356.1      GG----ATCCTGTATTATA-------TCAA--CATTTATTTTGGT---TTTTCGGTCATC
+MZ736440.1      GG----ATCCTGTATTATA-------TCAA--CATTTATTTTGGT---TTTTCGGTCATC
+LC595949.1      GG----ATCCTGTATTATA-------TCAA--CA--------------------------
+LC595840.1      GC----GATCCGACCCGTCTTGAAACACGGACCAAGGAGTCTAACATGTGTGCAAGTGTT
+OK267372.1      GA----GACCGGTGTCATC---AAGCCTGG--CA-TGGTCGCCAC---T-TTCGGCCCCG
+MZ736467.1      GAATATGATGTGCGCCGCC--GACCCTCGC--CA-CGGCCGCTAT---TTAACTGCCGCA
+LC595890.1      GAATATGATGTGCGCCGCC--GACCCTCGC--CA-CGGCCGCTAT---TTAACTGCCGCA
+                           *                                                
+
+LC595961.1      AGGTCGTTTAAATCAAACATCAATGTTTATAAAAAGG-------GAAGGTGTTTTTTATG
+MF036303.1      TTTAGGAGAATATGCAAATATGTTATTAATGAGTAG------------------------
+MF036277.1      CTGAAGTTTATATTTTAATTTTA----------------------CCAGCTTTTGGTATT
+OK185356.1      CTGAAGTTTATATTTTAA------------------------------------------
+MZ736440.1      CTGAAGTTTATATTTTAATTTTA----------------------CCAGCTTTTGGTATT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      AGGGTGTGGAAACCCCAGCGCGAAATGAAAGTAAAGGGCAGCGCA-AGTTGTCTGAGGTA
+OK267372.1      TGGGTCTGTCGACG-GAAGTTAAGTCCGTTGAGATGCACCACGAGTCTCTGCCGGAGGCT
+MZ736467.1      TGTATGTTC---CGCGGACGTATGAGCACGAAGGAGGTTGATGAGCAGATGCTGAACGTG
+LC595890.1      TGTATGTTC---CGCGGACGTATGAGCACGAAGGAGGTTGATGAGCAGATGCTGAACGTG
+                                                                            
+
+LC595961.1      G------ACAATGTAGTGAAATTTGTGGAGTAAATCAT-----------------GGATT
+MF036303.1      ---------------------TTTAACTACTATTTTGTTTTTAGGAGGTTGGCTAGCCCC
+MF036277.1      ATTAGTCAAGTTTCTGCAGCCTTTGCTAAAAAAAATGTATTTGGTTATTTAGGAATGGTT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      ATTAGTCAAGTTTCTGCAGCCTTTGCTAAAAAAAATGTATTTGGTTATTTAGGAATGGTT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      G------GAAATGTTGCGGGCTTCGGTCTGCGGCGTGGCACTATCGACCGATCATGAACC
+OK267372.1      GTCCCCGGTGACAACGTTGGCTTCAACGTCAAGAACGTKTCSGTC--------AAGGAGC
+MZ736467.1      CAGAACAAGAACTCGTCGTACTTCGTCGAGTGGATCCCCAACAACATCAAGGCTAGCGTG
+LC595890.1      CAGAACAAGAACTCGTCGTACTTCGTCGAGTGGATCCCCAACAACATCAAGGCTAGCGTG
+                                                                            
+
+LC595961.1      TATGCCTATTGTTATAGAAGC---------------------------------------
+MF036303.1      TTTCCCTTTTAGTATTAAATT---------------------------------------
+MF036277.1      TATGCTATGTTATCTATAGGTTTATTAGGTTCGATTGTATGGGCACATCATATGTTTACT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      TATGCTATGTTATCTATAGGTTTATTAGGTTCGATTGTATGGGCACATCATATGTTTACT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      TTCGTGGTGAAAGATTTGAGT---------TTGAGCACATATGTTGGTACCCGAAAGATG
+OK267372.1      TGCGTCGTGGTTTCGTYGCTT---------------------------------------
+MZ736467.1      TGTGACATCCCGCCCAAGGGT---------------------------------------
+LC595890.1      TGTGACATCCCGCCCAAGGGT---------------------------------------
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      GTTGGTTTAGATGTAGATACTAGAGCTTATTTTTCTGCAGCTACGATGATTATTGCTGTA
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      GTTGGTTTAGATGTAGATACTAGAGCTTATTTTTCTGCAGCTACGATGATTATTGCTGTA
+LC595949.1      ------------------------------------------------------------
+LC595840.1      GTGAACTATGCCTGAGTAGGGTGAAGCCAGGGGAAACTCTGGTGGAAGCTCGTAGCGATT
+OK267372.1      -------------------------------------CGGACTCCAAGAACGACCCSG--
+MZ736467.1      ------------------------------------------CTGAAGATGAGCACTACG
+LC595890.1      ------------------------------------------CTGAAGATGAGCACTACG
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------TATTAATTTTTTACCCGGATCATTTTGGTTTAGTAT
+MF036277.1      CCTACTGGTATTAAAATTTTTAGTTGGTTAGCCACTTTATGGGGAGGTTCTTTAAAATTT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      CCTACTGGTATTAAAATTTTTAGTTGGTTAGCCACTTTATGGGGAGGTTCTTTAAAATTT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      CTGACGTGCAAATCGATCGTCAAACTTGGGTATAGGGGCGAAAGACTAATCGAACCATCT
+OK267372.1      -CCAAGGGYACCCAGGACTTCACCGCTCAGGTGATTGTGCTGAACCACCCCGGCCAGATC
+MZ736467.1      TTCATCGGAAACTCGACCGCCATCCAGGAG---ATGTTCAAGCGTGTGTCCGAACAGTTT
+LC595890.1      TTCATCGGAAACTCGACCGCCATCCAGGAG---ATGTTCAAGCGTGTGTCCGAACAGTTT
+                                                                            
+
+LC595961.1      -------TGTTTCATTAGAAGA---------------------TTATTTAACTTGGT---
+MF036303.1      TAAAGTATGTT-TGTTTGTTGTTTTATTTGTGGTAGCTAGAGCTATTTTACCAAGATACC
+MF036277.1      GAAACACCTTTATTATTTACTTTAGGTTTTATATTATTATTTGTTATGGGGGGTATAACT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      GAAACACCTTTATTATTTACTTTAGGTTTTATATTATTATTTGTTATGGGGGGTATAACT
+LC595949.1      -------------------------------------------TTTATT-----------
+LC595840.1      AGTAGCTGGTTCCCTCCGAAATTTCCCTCAGGATAGCAGCAACTTATTTACGATAGTTTT
+OK267372.1      GGCAACGGCTACTCGCCGGTGCTTGACTGCCACACGGCCCACGTTGCCTGCAAGTTCAAA
+MZ736467.1      ACGGCTATGTTCCGTCGTAAGGC--------------------TTTCTTGCACTGGTACA
+LC595890.1      ACGGCTATGTTCCGTCGTAAGGC--------------------TTTCTTGCACTGGTACA
+                                                                            
+
+LC595961.1      --------------------TAAAAAATAAAATTAATTTTGATTTTAATATATAA-----
+MF036303.1      GTTATGAT------------CAATTAATGCGTTTAGGTTGGAA-----------------
+MF036277.1      GGTGTAGCTATGTCTAATTCGGGGTTAGATA--TTGCATTGCATGATACTTATTATATTG
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      GGTGTAGCTATGTCTAATTCGGGGTTAGATA--TTGCATTGCATGATACTTATTATATTG
+LC595949.1      ------------------------------------------------------------
+LC595840.1      AT------------------GAGGTAAAGCGAATGATTAGAGGATTCGGGGAAGAAACTT
+OK267372.1      --------------------GAGATCACGGA--GAAGATGGACCGTC-------------
+MZ736467.1      CTGGT---------------GAGGGCATGGA--CGAGATGGAGTTTACCGAG--------
+LC595890.1      CTGGT---------------GAGGGCATGGA--CGAGATGGAGTTAC-------------
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      TAGGACATTTTCATTATGTATTATCTATGGGNNCTGTTTTTGGTATATTTACTGGATTTT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      TAGGACATTTTCATTATGTATTATCTATGGGTGCTGTTTTTGGTATATTTACTGGATTTT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      CCTCGACCTATTCTCAAACTTTAAATCTGTAAGACCTGCAGGTTTCTTAATTGAACTTGT
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      ------------------------------------------------------------
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      ATTTTTGGATTGGGAAAATTTCAGGTCGTAGATATCCAGAAATTCTAGGTCAAATTCATT
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      ATTTTTGGATTGGGAAAATTTCAGGTCGTAGATATCCAGAAATTCTAGGTCAAATTCATT
+LC595949.1      ------------------------------------------------------------
+LC595840.1      GGATGTGAATATCAA---------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      ------------------------------------------------------------
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      TTTGGTTATTTTTTATTGGAGTAAATGTTACTTTTTTTCCAATGCATTTTTTAGGTTTAG
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      TTTGGTTATTTTTTATTGGAGTAAATGTTACTTTTTTTCCAATGCATTTTTTAGGTTTAG
+LC595949.1      ------------------------------------------------------------
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      ------------------------------------------------------------
+                                                                            
+
+LC595961.1      ------------------------------------------------------------
+MF036303.1      ------------------------------------------------------------
+MF036277.1      CTGGTATGCC--------------------------------------------------
+OK185356.1      ------------------------------------------------------------
+MZ736440.1      CTGGTATGCCAAGAAGAATTCCGGATTTCCCCGACGCAATGAGTGGTTGGAATTCTGTGA
+LC595949.1      ------------------------------------------------------------
+LC595840.1      ------------------------------------------------------------
+OK267372.1      ------------------------------------------------------------
+MZ736467.1      ------------------------------------------------------------
+LC595890.1      ------------------------------------------------------------
+                                                                            
+
+LC595961.1      -------------
+MF036303.1      -------------
+MF036277.1      -------------
+OK185356.1      -------------
+MZ736440.1      GTAGTTTTGGTTC
+LC595949.1      -------------
+LC595840.1      -------------
+OK267372.1      -------------
+MZ736467.1      -------------
+LC595890.1      -------------
+                             
