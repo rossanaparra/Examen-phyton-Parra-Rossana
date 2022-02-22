@@ -15,3 +15,9 @@ Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible par
 #!pip install nglview                    
 ####  Data _Bajada de Pubmed. 
 Se identifica el documento con el nombre : pubmed-EcuadorGen-set.txt
+Versión de anaconda (jupyter  Notbook es 6.4.5" 
+git version 2.35.1.windows.2
+###  Algunos módulos utilizados 
+re 
+###  Data   
+ENTREZ
